@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 # vueapp
 
 ## Project setup
@@ -23,6 +24,9 @@ npm run lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+=======
+# devopsvue
+>>>>>>> d97032b26fcd88a899f190e60f41496c71d0eff6
 =======
 # devopsvue
 >>>>>>> d97032b26fcd88a899f190e60f41496c71d0eff6
